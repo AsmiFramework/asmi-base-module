@@ -11,4 +11,6 @@ util.inherits(AsmiBaseModule, events.EventEmitter);
 
 var p = AsmiBaseModule.prototype;
 
+p.init = function () {};
+
 module.exports = exports = AsmiBaseModule;
