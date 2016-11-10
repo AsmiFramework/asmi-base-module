@@ -1,6 +1,6 @@
 {
   "name": "asmi-base-module",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Base module for all Asmi based modules",
   "main": "asmi-base-module.js",
   "scripts": {
